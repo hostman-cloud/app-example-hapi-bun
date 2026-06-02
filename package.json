@@ -1,0 +1,15 @@
+{
+    "name": "app-example-hapi-bun",
+    "module": "index.ts",
+    "type": "module",
+    "scripts": {
+        "build": "echo \"Build command\"",
+        "start": "bun run index.ts"
+    },
+    "dependencies": {
+        "@hapi/hapi": "^21.4.0"
+    },
+    "devDependencies": {
+        "bun-types": "latest"
+    }
+}
