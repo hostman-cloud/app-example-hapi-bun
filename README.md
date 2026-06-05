@@ -4,7 +4,7 @@
 
 An example [Hapi](https://hapi.dev/) on the [Bun](https://bun.sh/) runtime that can be deployed to **Hostman Cloud Apps** with no configuration.
 
-:tada: [Demo]
+:tada: [Demo](https://hostman-cloud-app-example-hapi-bun-3ab7.hostman.dev/)
 
 :rocket: [Create your App](https://hostman.cloud/my/apps/create)
 
