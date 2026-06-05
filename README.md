@@ -1,8 +1,10 @@
+![Hapi Logo](https://st.hostman.com/cloud-static/apps-logo/hapi.svg)
+
 # Hapi on Bun
 
 An example [Hapi](https://hapi.dev/) on the [Bun](https://bun.sh/) runtime that can be deployed to **Hostman Cloud Apps** with no configuration.
 
-:tada: Demo
+:tada: [Demo]
 
 :rocket: [Create your App](https://hostman.cloud/my/apps/create)
 
